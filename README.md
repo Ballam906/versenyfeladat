@@ -1,0 +1,2 @@
+# versenyfeladat
+versenyfeladat
